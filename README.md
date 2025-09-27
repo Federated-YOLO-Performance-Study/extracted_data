@@ -1,2 +1,2 @@
 # extracted_data
-The data is extracted from the each repository.
+The data is extracted from each repository.
